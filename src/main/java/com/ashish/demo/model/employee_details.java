@@ -24,4 +24,8 @@ public class employee_details {
     private LocalDate emp_dob;  
 
     private String category;
+
+    private String email;
+
+    private int salary;
 }
