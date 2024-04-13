@@ -4,3 +4,12 @@ This a employee management backend REST API built using SpringBoot and JAVA.
 2: http://localhost:8080/home/AddEmp  - POST
 3: http://localhost:8080/home/role/Developer -GET BY CATEGORY
 4: http://localhost:8080/home/AllEmp -To Get ALL Employee
+
+Dependency used:
+Spring Boot Starter
+Spring Web
+Spring JPA Repository
+Spring MySql JDBC
+Spring starter Mail
+
+JDBC Connectivity based on JPArepository
